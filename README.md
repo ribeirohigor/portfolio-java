@@ -14,4 +14,3 @@ Higor Ribeiro
 - Em releases, baixar o executavel .jar 
 - Clicar duas vezes com o botão esquerdo para abrir o app no SO Windows
 - Tranformar arquivo eme executavel para abrir no Linux
-- 
