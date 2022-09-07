@@ -8,7 +8,7 @@
 Higor Ribeiro
 ## Capturas de Tela
 ![]()
-![Tela](https://github.com/ribeirohigor/portfolio-java/blob/main/img/portfolioprint.png)
+![Tela](https://github.com/ribeirohigor/portfolio-java/blob/main/img/portfolio.png)
 ![Sobre](https://github.com/ribeirohigor/portfolio-java/blob/main/img/sobre.PNG)
 ![App](https://github.com/ribeirohigor/portfolio-java/blob/main/img/appdesafio.PNG)
 ![App](https://github.com/ribeirohigor/portfolio-java/blob/main/img/combustivel.PNG)
